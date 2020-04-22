@@ -15,7 +15,7 @@ Traversing the Input elements one by one.
 Depth is the number of open parenthesis.
 
 Note: depth is the number of only those open parenthesis which do not have a closing parenthesis.
-
+```
 Example:
 
 Case 1: S = ( ( ( ) ( ) )
@@ -25,6 +25,7 @@ depth = 1     Since S has only 1 open parenthesis with no closing parenthesis to
 Case 2: S = ( ( ) ) 
 
 depth =0      Since all open parenthesis are closed 
+```
 
 Initiate with depth = 0
  
