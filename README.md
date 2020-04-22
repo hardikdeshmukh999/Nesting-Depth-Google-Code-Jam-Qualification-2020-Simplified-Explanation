@@ -1,7 +1,9 @@
 # Nesting Depth Problem B | Google Code Jam Qualification Round 2020 [Simplified Explanation]
 
-Nesting Depth Problem B | Google Code Jam Qualification Round 2020 - Simplified Explanation and Python code by Hardik Deshmukh
-
+Nesting Depth Problem B | Google Code Jam Qualification Round 2020 - Simplified Explanation and Python code by Hardik Deshmukh.
+<p align="center">
+  <img  src="Code-Jam-Hub-Advertisement-Image.png">
+</p>
 The objective is to solve the problem statement with a minimum of time and space complexity.
 I would recommend that you go through the problem statement and explanation once and try coding, or if you feel less confident, you can always refer to the optimized Python code that can be a bit difficult to understand.
 
