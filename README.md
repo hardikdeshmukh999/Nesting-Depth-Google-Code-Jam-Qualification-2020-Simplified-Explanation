@@ -78,7 +78,7 @@ Until depth = 0 keep appending closing parenthesis
 (((3))1(2))
 ```
 
-Special Condition : If a number (say 2) is greater than 1 repeats, close all existing open parenthesis and append (2 open parenthesis) open parenthesis followed by the number (2) and close all open parenthesis.
+**Special Condition :** If a number (say 2) is greater than 1 repeats, close all existing open parenthesis and append (2 open parenthesis) open parenthesis followed by the number (2) and close all open parenthesis.
 
 
 ```
