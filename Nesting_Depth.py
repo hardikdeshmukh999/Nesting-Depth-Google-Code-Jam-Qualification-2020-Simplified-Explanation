@@ -28,7 +28,5 @@ for i in m:
 while (n.count('(')-n.count(')'))!=0:
     n.append(')')
     
-n = [str(i) for i in n]
-n="".join(n)
-print(n)
+print(''.join(map(str, n)))
 
