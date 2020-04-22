@@ -76,7 +76,7 @@ Now depth = 2
 
 Append closing parenthesis to close all opening parenthesis
 
-Until depth = 0 keep appending closing parenthesis
+Until depth = 0 keep on appending closing parenthesis
 ```
 (((3))1(2))
 ```
