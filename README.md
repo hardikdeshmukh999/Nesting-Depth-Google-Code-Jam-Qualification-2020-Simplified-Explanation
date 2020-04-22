@@ -12,7 +12,7 @@ Traversing the Input elements one by one.
 
 Depth is the number of open parenthesis.
 
-Note: depth is the number of only those parenthesis which do not have a closing parenthesis.
+Note: depth is the number of only those open parenthesis which do not have a closing parenthesis.
 
 Example:
 
